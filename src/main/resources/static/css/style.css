@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.container{
+	padding-bottom: 35px;
+}
+.register, .login {
+	width: 45%;
+	margin: 20px;
+	display: inline-block;
+	vertical-align: top;
+	border: 2px solid black;
+	border-radius: 3px;
+	padding: 15px;
+}
+.header a, .first{
+	margin-left: 35%;
+	display: inline-block;
+}
+.logged-in{
+	display: inline-block;
+}
+.left_aligned{
+	display:inline-block;
+	width: fit-content;
+}
+.first{
+	margin-left: 65%;
+	display: inline-block;
+}
